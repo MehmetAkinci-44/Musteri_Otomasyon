@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Entity\\Entity.csproj",
+      "projectUniqueName": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Entity\\Entity.csproj",
+      "projectPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj",
       "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Entity\\obj\\",
+      "outputPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

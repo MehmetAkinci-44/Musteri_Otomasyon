@@ -3327,11 +3327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Bussines\\Bussines.csproj",
+      "projectUniqueName": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj",
       "projectName": "Bussines",
-      "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Bussines\\Bussines.csproj",
+      "projectPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj",
       "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Bussines\\obj\\",
+      "outputPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3355,11 +3355,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj"
+            "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Entity\\Entity.csproj"
+            "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj": {
+              "projectPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj"
             }
           }
         }

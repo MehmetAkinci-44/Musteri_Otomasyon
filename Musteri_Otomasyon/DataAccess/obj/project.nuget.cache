@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGFVMxjKXxnykS4apUft8JgeQISUgpVFXp17ybPV3456KoztmZamYeog8+iclqLBa7y+b6aYpLPP2CPJsF4Ufg==",
+  "dgSpecHash": "Pj/EU0MW/M2krfddglG/vWAAB57hLzYvEODs5X+0EZTvm7cCWijPFYBqFuWFIEAl4bSPm3np+g2dypqHVnNv1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehmet\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mehmet\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
