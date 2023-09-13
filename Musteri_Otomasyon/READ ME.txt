@@ -10,11 +10,12 @@ kod satırında server = kısmına Kendi Mssql server ismimizi yazmamız lazım 
 Visual studio penceresinin üst kısmındaki menulerden Tools içindeki manage nuget package sekmesinden nuget package console u açıp Default project kısmından Data-Access i seçtikten sonra 
 add-migration komutunu çalıştırıyoruz.
 yine aynı konsolda update-database komutunu çalıştırarak Musteridb database'imizi olouşturuyoruz.
-Proje kullanıma hazır; 
+Proje kullanıma hazır;  
 projeyi çalıştırdıktan sonra karşımıza gelen Login pencerinde 
-Kullanıcı adı : admin
-Şifre : 12345
-değerlerini giriyoruz.
+Kullanıcı adı ve Şifre yi girebilmemiz için Microsoft SQL server management studio açıp oluşturduğumuz Musteridb database içerisindeki Admin tablosuna Kullanıcı_adı ve Şifre kısmını boş geçmeyerek bir veri ekliyoruz.
+Şimdi bu girdiğimiz verinin kullanıcı adı ve şifresini karşımızdaki login penceresindeki ilgili bölümlere girerek giriş yapa tıklıyoruz.
+Sisteme Authenticate olduk.
+Karşımızdaki Müşteri listesinden gerekli işlemleri yapabiliriz.
 
 
 
