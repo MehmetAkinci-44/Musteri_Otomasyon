@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Musteri_Otomasyon.props" />
+</Project>
