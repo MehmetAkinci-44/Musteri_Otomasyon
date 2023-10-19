@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IGVnGVfFnX/9cBZoYHhZ3oMCFF7vTbraoHudpKRdY2zlTd0uFQxXoYiaPBZ4BxkalxUsRKa2GAlOX8bv+TPLfw==",
+  "dgSpecHash": "fc1A3UP/xfwfEjb6VdQCVaOSXGeWifFT0dmT5LSYQlB20E5EbL60gWEzBkZbx5v5mDLma03uwpIwCCxyOmgmpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Musteri_Otomasyon\\Musteri_Otomasyon.csproj",
+  "projectFilePath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Musteri_Otomasyon\\Musteri_Otomasyon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehmet\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mehmet\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

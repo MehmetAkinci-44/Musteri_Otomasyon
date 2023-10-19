@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj": {}
+    "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj": {
+    "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj",
         "projectName": "Bussines",
-        "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj",
+        "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\Bussines.csproj",
         "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\obj\\",
+        "outputPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Bussines\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,11 +35,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj"
               },
-              "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj": {
-                "projectPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj"
+              "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -114,8 +114,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj": {
-                "projectPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj"
+              "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj"
               }
             }
           }
@@ -171,14 +171,14 @@
         }
       }
     },
-    "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj": {
+    "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mehmet\\Documents\\GitHub\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\mehmet\\source\\repos\\Musteri_Otomasyon\\Musteri_Otomasyon\\MehmetAkinci-44\\Musteri_Otomasyon\\Musteri_Otomasyon\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
